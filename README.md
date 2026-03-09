@@ -1,4 +1,4 @@
-🧿 Pokédex Web
+🔴Pokédex Web
 
 Uma Pokédex interativa desenvolvida com Python + Flask no backend e HTML, CSS e JavaScript no frontend.
 
